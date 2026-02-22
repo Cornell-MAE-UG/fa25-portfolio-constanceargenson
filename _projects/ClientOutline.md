@@ -1,3 +1,4 @@
+title: Client Outline
 layout: project
 title: Client Outline and Pitch
 description:
