@@ -1,6 +1,5 @@
-title: Client Outline
-layout: project
 title: Client Outline and Pitch
+layout: project
 description:
 technologies: [MATLAB, python]
 image:
@@ -72,7 +71,7 @@ Maintenance: The lure requires manual maintenance to remove the chamber with bug
 Focus on questions they can answer from lived experience.
 1. What financial investment would be available for the full-scale use of this product?
 2. How much labor would be available for maintaining this product?
-
+3. What level of attachment between a lure and the trellis is required to maintain integrity throughout the growing and harvesting seasons? 
 
 # Optional page 2 — References and/or one figure
 
