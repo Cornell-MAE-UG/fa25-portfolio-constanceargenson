@@ -1,25 +1,89 @@
 ---
+title: Client Outline and Pitch
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
+description:
 technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+image:
 ---
 
 
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+<!--
+#/assets/images/function-graph.png
 
 
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+Compile to PDF (example):
+  pandoc O3_ClientOutline_example_submission.md -o O3_ClientOutline.pdf
 
 
-This is how I solved the problem:
+fontsize: 11pt
+geometry: margin=1in
+papersize: letter
+pagestyle: empty
+header-includes:
+  - \pagenumbering{gobble}
+-->
 
-```python
-    some code = 10;
-    plot();
-```
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
 
+
+**Team:** No Fly Zone 
+**Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape 
+
+
+## Problem statement (most important)
+Problem Statment
+The spotted lantern fly (Lycorma delicatula), also known as SLFs, is an invasive species spreading prolifically throughout North America. SLFs feed on grapevines, decimating crop yield, and additionally impacting wine production. They are difficult to manage, and infestations impact both the growing season and harvesting. Economic losses to the grape industry in Finger Lakes AVA alone is estimated to reach $1.5 million in only the first year of infestation, with damages further doubling annually (1). As SLFs feed on grapevines, they draw nutrients from the plant and reduce the quality of grapes. Grapevines with high levels of infestation used 38% less water due to lower sap flow rates, exemplifying only one of the many avenues of ecological crisis (2). The SLFs also remain on grapevines during the harvesting process, contaminating the grapes and further decreasing yields. This product aims to reduce the population density of the SLFs from the vines during the growing period, without causing physical damage to the grapevines.
+
+
+## Impact
+Impact
+If we can reduce the population of SLFs on the grapevines before harvest, not only can we improve the harvest yield but also improve the longevity of the grapevines itself. If we can reduce the number of SLFs in the vineyard, we can reduce their repopulation as well, ensuring more harvests can be processed instead of rejected due to regulations in production and vineyard preference.
+
+
+Adult spotted lanternflies are the biggest threat to grapevines as they ingest the most plant sap, which reduces yield and damages the vines' health. Their feeding also produces sticky honeydew that promotes the growth of sooty mold, which reduces the photosynthetic capacity of the plant leaves and also affects the appearance of the grapevine (3).Targeting the SLFs before harvest also allows us to eliminate many of them before they can damage the vine.
+
+
+
+
+## Proposed direction(s)
+
+
+### Concept A: “The Lure”
+
+
+This is a device which can be hung from a trellis, containing a speaker emitting a 60hz “mating call”, and an area infused with an alluring wintergreen oil tincture. Once attracted, a helical wall will slowly guide SLF down into a replaceable capture chamber.
+Minimum viable product / proof-of-concept:
+A minimum viable product would contain a luring method, and a mechanism to trap attracted SLFs. In use this could consist of a plastic bottle filled with a small amount of wintergreen oil. A rubber valve, resembling that of a human heart valve, would replace the cap and act as a one-direction entrance.
+Potential long term product:
+A more complete product will lure more SLFs, and trap them better. To implement this, a dual-attraction system is used. A wintergreen-oil soaked sponge will encircle a 60hz speaker. These will be stationed at the bottom of the trap, so as to draw the SLFs down. Once inside the lure, a helical arm will rotate pushing the SLFs into the containment chamber. The product should also contain a method to remove the secured SLFs, and replace the containment chamber for further product use. The rotating arm and speaker can be powered by a small onboard solar cell.
+
+
+
+
+## Key risks / unknowns
+Risks
+Maintenance: The lure requires manual maintenance to remove the chamber with bugs, or if a component fails. It could require a lot of effort to service every lure in a large vineyard.
+- Cost: Grapevines are huge and grape farms span acres, so targeting every single grapevine with a prototype may become extremely expensive and also may include a lot of labor to implement on each vine.
+- Efficacy: If SLF is not attracted to our lure, it will be ineffective in reducing the number of SLF remaining on grapevines. This would require testing that is difficult to do in a classroom setting.
+- Maintenance: The lure requires manual maintenance to remove the chamber with bugs, or if a component fails. It could require a lot of effort to service every lure in a large vineyard.
+
+
+## Questions for the client
+Focus on questions they can answer from lived experience.
+1. What financial investment would be available for the full-scale use of this product?
+2. How much labor would be available for maintaining this product?
+3. What level of attachment between a lure and the trellis is required to maintain integrity throughout the growing and harvesting seasons? 
+
+# Optional page 2 — References and/or one figure
+
+
+## References
+
+
+- <Source 1 (https://academic.oup.com/jipm/article/16/1/2/7964417?searchresult=1&login=true#521897831)>
+- <Source 2 (https://www.sciencedirect.com/science/article/pii/S0167880924004390)>
+- <Source 3 (https://academic.oup.com/jipm/article/16/1/2/7964417) >
+- <Source 4 (https://academic.oup.com/jee/article/115/6/2116/6777183) >
+
+
+## Figure
