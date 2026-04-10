@@ -3,11 +3,7 @@
 ### Table of Contents
 - [Client Pitch](#client-pitch)
 - [Functional Prototype](#functional-prototype)
-title: Client Outline and Pitch
-layout: project
-description:
-technologies: [MATLAB, python]
-image:
+
 ---
 
 
