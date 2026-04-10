@@ -37,7 +37,7 @@ header-includes:
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape 
 
 
-## Problem statement (most important)
+## Problem statement 
 Problem Statment
 The spotted lantern fly (Lycorma delicatula), also known as SLFs, is an invasive species spreading prolifically throughout North America. SLFs feed on grapevines, decimating crop yield, and additionally impacting wine production. They are difficult to manage, and infestations impact both the growing season and harvesting. Economic losses to the grape industry in Finger Lakes AVA alone is estimated to reach $1.5 million in only the first year of infestation, with damages further doubling annually (1). As SLFs feed on grapevines, they draw nutrients from the plant and reduce the quality of grapes. Grapevines with high levels of infestation used 38% less water due to lower sap flow rates, exemplifying only one of the many avenues of ecological crisis (2). The SLFs also remain on grapevines during the harvesting process, contaminating the grapes and further decreasing yields. This product aims to reduce the population density of the SLFs from the vines during the growing period, without causing physical damage to the grapevines.
 
@@ -100,4 +100,8 @@ Focus on questions they can answer from lived experience.
 ## Functional Prototype
 <a id="functional-prototype"></a>
 
-[PASTE YOUR PROTOTYPE WRITEUP HERE]
+Our team designed and developed  a trellis-mounted device that attracts and removes spotted lanternflies directly from grapevines using a combination of sensory lures and motorized capture. The device operates in 2 stages, first the attraction of the SFL followed by the capture. Wintergreen oil, a known SFL attractant, will be placed in the opening of the device to lure the SLF’s into the device. Once inside, the geometry of the enclosure guides them to the second chamber, where a geared DC motor drives a rotating, toothed mechanism that physically directs the SLFs into an isolated, removable collection chamber. This motorized system ensures continuous movement to prevent escape while minimizing power requirements. The device is designed to operate continuously during the growing season and can be deployed across vines, with periodic maintenance limited to replacing the collection chamber. Lastly, the system is externally mounted and avoids direct contact with the grapes, meaning it removes SLFs without causing damage to the grapevines.
+
+We tested the mechanical performance of the system through a series of motion and power evaluations. First, rotational testing confirmed that the rotor mechanism achieved full 360° motion without internal interference, validating alignment and overall geometry. Minor misalignment observed during testing was due to a temporary taped shaft connection, indicating the need for a more rigid coupling in future iterations. Second, voltage testing showed that the motor required approximately 2.47 V to initiate motion and 1.74 V to sustain rotation, confirming that the current 6 V power supply is sufficient for continuous operation. Finally, the minimum operating speed of the system was measured at approximately 45 rpm. While functional, this suggests that a slower, more controlled motor may improve capture efficiency.
+
+Overall, the prototype demonstrates that the concept is mechanically viable and capable of continuous operation. The results highlight key areas for refinement, including improved motor control and more robust component integration, to enhance reliability and performance in a vineyard setting.
