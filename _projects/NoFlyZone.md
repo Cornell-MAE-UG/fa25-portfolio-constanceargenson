@@ -1,3 +1,8 @@
+## No Fly Zone – Spotted Lanternfly Solution
+
+### Table of Contents
+- [Client Pitch](#client-pitch)
+- [Functional Prototype](#functional-prototype)
 title: Client Outline and Pitch
 layout: project
 description:
@@ -24,7 +29,10 @@ header-includes:
 
 
 
+---
 
+## Client Pitch
+<a id="client-pitch"></a>
 **Team:** No Fly Zone 
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape 
 
@@ -86,3 +94,10 @@ Focus on questions they can answer from lived experience.
 
 
 ## Figure
+
+---
+
+## Functional Prototype
+<a id="functional-prototype"></a>
+
+[PASTE YOUR PROTOTYPE WRITEUP HERE]
