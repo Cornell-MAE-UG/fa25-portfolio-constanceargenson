@@ -1,3 +1,11 @@
+---
+layout: project
+title: Client Outline and Pitch
+description: No Fly Zone – spotted lanternfly capture device
+permalink: /projects/no-fly-zone/
+image: /assets/NoFlyZonePrototype.png
+---
+
 ## No Fly Zone – Spotted Lanternfly Solution
 
 ### Table of Contents
