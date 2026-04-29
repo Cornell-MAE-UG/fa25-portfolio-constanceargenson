@@ -57,8 +57,7 @@ We evaluated the mechanical performance of the system:
 
 Results confirm the system is **mechanically viable**, though motor speed optimization is needed.
 
-Schematics of Motor:
-(/assets/images/NoFlyZoneSchematics.jpeg)
+![Schematics of Motor](/assets/images/NoFlyZoneSchematics.jpeg)
 
 ---
 
@@ -93,7 +92,7 @@ Schematics of Motor:
 
 ![Prototype Diagram](/assets/images/NoFlyZone.jpeg)
 
-(/assets/images/NoFlyZoneGears.jpeg)
+![Prototype Diagram](/assets/images/NoFlyZoneGears.jpeg)
 
 
 ---
