@@ -25,7 +25,7 @@ Here are a few engineering and design projects I have worked on at Cornell.
   </div>
 
   <div class="project-card">
-    <img src="/fa25-portfolio-constanceargenson/assets/img/heat-exchanger.jpg" alt="Heat exchanger project image">
+    <img src="/fa25-portfolio-constanceargenson/assets/imgages/HeatExchangerPFP.jpeg" alt="Heat exchanger project image">
     <h2>Heat Exchanger Analysis</h2>
     <p>A thermodynamics project analyzing counterflow and parallel flow heat exchanger performance using experimental data.</p>
     <a href="/fa25-portfolio-constanceargenson/projects/heat-exchanger/">View Project</a>
