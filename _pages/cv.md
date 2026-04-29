@@ -1,74 +1,99 @@
 ---
-layout: default
-title: <Constance Argenson> - Curriculum Vitae
+layout: page
+title: CV
 permalink: /cv/
 ---
-## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+# Constance Argenson
 
-
-**Email:** [cca63@cornell.edu](mailto:cca63@cornell.edu) | | | **Phone:** +123 456 7890
-
----
-
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Scarsdale, NY  
+(914) 374-6929  
+cca63@cornell.edu  
 
 ---
 
-#### Education
-- **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+## Education
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+**Cornell University, College of Engineering** — Ithaca, NY  
+*Bachelor of Science in Mechanical Engineering*  
+*Dyson Business Minor for Engineers*  
+Expected May 2028  
+GPA: 3.05  
 
----
-
-#### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+**Relevant Coursework:**  
+Dynamics, Mechanical Design, Engineering Simulations, Linear Algebra, Statics, Thermodynamics, Differential Equations, Electromagnetism  
 
 ---
 
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+## Technical Skills
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+**Programming & Tools:** Python, MATLAB, Excel  
+**Engineering Software:** Fusion 360 (CAD), ANSYS  
+**Training:** CNC Machining  
+**Languages:** English (Fluent), French (Fluent)  
 
 ---
 
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+## Experience
+
+### Energy Transition Club — Project Team Analyst  
+*Cornell University | Aug 2025 – Present*  
+- Conduct decarbonization analyses for Cornell residential buildings  
+- Evaluate electrification strategies including heat pump system sizing and energy audits  
+- Apply thermodynamic modeling and load calculations to assess feasibility  
+- Developed proposals integrating technical constraints, stakeholder considerations, and economic viability  
 
 ---
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+### Spotted Lantern Fly Mitigation Device — Mechanical Design Project  
+*Client: Cornell CALS Extension, E&J Gallo, National Grape | Spring 2026*  
+- Designed a vineyard pest mitigation system using a “lure-and-contain” approach  
+- Developed proof-of-concept using wintergreen oil attractant and one-way capture mechanism  
+- Evaluated engineering tradeoffs including cost, maintenance, and scalability  
+- Incorporated client feedback to ensure real-world feasibility  
 
 ---
 
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+### Heat Exchanger Analysis — Thermodynamics Project  
+*Cornell University | Fall 2025*  
+- Modeled a plate heat exchanger using experimental data  
+- Applied mass, energy, and entropy balances  
+- Compared counterflow vs. parallel flow configurations  
+- Demonstrated improved performance of counterflow through temperature analysis  
 
 ---
 
-#### References
-Available upon request.
+### Software Development Intern  
+**CGS Inc. (Computer Generated Solutions)** — New York, NY  
+*June 2023 – Aug 2023*  
+- Researched software development practices and workflows  
+- Edited technical content for client-facing documentation  
+- Strengthened structured problem-solving and technical communication skills  
 
 ---
+
+## Leadership & Involvement
+
+### Academic Excellence Director  
+**Kappa Kappa Gamma, Cornell University**  
+*Aug 2025 – Present*  
+- Lead academic support initiatives for 130+ members  
+- Contributed to achieving a 3.77 chapter GPA (2nd in Cornell PHC)  
+- Track performance metrics and identify students needing support  
+
+---
+
+### Teaching Assistant  
+**Prestige SAT & ACT Prep** — Hartsdale, NY  
+*Nov 2023 – Present*  
+- Tutor students in math and science for standardized tests  
+- Explain advanced topics including BC Calculus and Linear Algebra  
+
+---
+
+### Sales Intern  
+**Pamela Robbins** — Scarsdale, NY  
+*May 2025 – Aug 2025*  
+- Supported operations in a luxury retail environment  
+- Worked directly with high-net-worth clients  
+- Assisted with merchandising and inventory strategy  
