@@ -62,17 +62,17 @@ The system ensures that when the handle rotates, the burrs rotate continuously t
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
 
   <div>
-    <img src="/fa25-portfolio-constanceargenson/assets/images/coffee-grinder-assembly.jpg" width="100%">
+    <img src="/fa25-portfolio-constanceargenson/assets/images/CoffeeGrinder.jpeg" width="100%">
     <p style="text-align:center; font-size: 0.9rem;">Full CAD Assembly</p>
   </div>
 
   <div>
-    <img src="/fa25-portfolio-constanceargenson/assets/images/coffee-grinder-gears.jpg" width="100%">
+    <img src="/fa25-portfolio-constanceargenson/assets/images/GrinderComponents.jpeg" width="100%">
     <p style="text-align:center; font-size: 0.9rem;">Miter Gear System</p>
   </div>
 
   <div>
-    <img src="/fa25-portfolio-constanceargenson/assets/images/coffee-grinder-sketch.jpg" width="100%">
+    <img src="/fa25-portfolio-constanceargenson/assets/images/GrinderSketch.jpeg" width="100%">
     <p style="text-align:center; font-size: 0.9rem;">Initial Design Sketch</p>
   </div>
 
