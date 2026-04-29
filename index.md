@@ -6,10 +6,12 @@ title: <Constance Argenson>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+<img src="/fa25-portfolio-constanceargenson/assets/images/profile-pic.jpg.jpeg" 
+     alt="Profile Picture" 
+     style="width:200px; border-radius:50%; display:block; margin:auto;">
 
  
-My name is Constance Argenson, and I am undergraduate student in Cornell Engineering majoring in Mechanical Engineering.
+My name is Constance Argenson, and I am undergraduate student in Cornell Engineering majoring in Mechanical Engineering, with a Dyson Business Minor.
 
 
 
