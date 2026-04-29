@@ -11,7 +11,7 @@ Here are a few engineering and design projects I have worked on at Cornell.
 <div class="project-grid">
 
   <div class="project-card">
-    <img src="/fa25-portfolio-constanceargenson/assets/images/NoFlyZone.jpg" alt="No Fly Zone project image">
+    <img src="/fa25-portfolio-constanceargenson/assets/images/NoFlyZone.jepg" alt="No Fly Zone project image">
     <h2>No Fly Zone</h2>
     <p>A client-focused mechanical design project developing a lure-and-contain device to reduce spotted lanternfly damage in vineyards.</p>
     <a href="/fa25-portfolio-constanceargenson/projects/no-fly-zone/">View Project</a>
