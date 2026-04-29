@@ -89,11 +89,9 @@ Results confirm the system is **mechanically viable**, though motor speed optimi
 
 ## Visuals
 
-![Prototype Diagram](/fa25-portfolio-constanceargenson/assets/images/NoFlyZone.jpeg)
+![Prototype Diagram]({{ site.baseurl }}/assets/images/NoFlyZone.jpeg)
 
-![Prototype Diagram](/fa25-portfolio-constanceargenson/assets/images/NoFlyZoneGears.jpeg)
-
-
+![Prototype Diagram]({{ site.baseurl }}/assets/images/NoFlyZoneGears.jpeg)
 ---
 
 ## Takeaways
