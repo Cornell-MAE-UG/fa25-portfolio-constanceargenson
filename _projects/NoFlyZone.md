@@ -57,8 +57,6 @@ We evaluated the mechanical performance of the system:
 
 Results confirm the system is **mechanically viable**, though motor speed optimization is needed.
 
-![Prototype Diagram](/fa25-portfolio-constanceargenson/assets/images/NoFlyZoneSchematics.jpeg)
----
 
 ## Key Benefits
 
@@ -89,10 +87,17 @@ Results confirm the system is **mechanically viable**, though motor speed optimi
 
 ## Visuals
 
-![Prototype Diagram]({{ site.baseurl }}/assets/images/NoFlyZone.jpeg)
+## Visuals
 
-![Prototype Diagram]({{ site.baseurl }}/assets/images/NoFlyZoneGears.jpeg)
----
+<img src="/fa25-portfolio-constanceargenson/assets/images/NoFlyZone.jpeg" alt="No Fly Zone prototype" width="600">
+
+<br><br>
+
+<img src="/fa25-portfolio-constanceargenson/assets/images/NoFlyZoneGears.jpeg" alt="No Fly Zone gear mechanism" width="600">
+
+<br><br>
+
+<img src="/fa25-portfolio-constanceargenson/assets/images/NoFlyZoneSchematics.jpeg" alt="No Fly Zone schematics" width="600">
 
 ## Takeaways
 
