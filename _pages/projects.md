@@ -18,7 +18,7 @@ Here are a few engineering and design projects I have worked on at Cornell.
   </div>
 
   <div class="project-card">
-    <img src="/fa25-portfolio-constanceargenson/assets/img/coffee-grinder.jpg" alt="Coffee grinder project image">
+    <img src="/fa25-portfolio-constanceargenson/assets/images/CoffeeGrinder.jpeg" alt="Coffee grinder project image">
     <h2>Coffee Grinder</h2>
     <p>A Fusion 360 mechanical design project focused on gear motion, shaft alignment, and functional assembly modeling.</p>
     <a href="/fa25-portfolio-constanceargenson/projects/coffee-grinder/">View Project</a>
