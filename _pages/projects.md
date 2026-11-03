@@ -31,6 +31,13 @@ Here are a few engineering and design projects I have worked on at Cornell.
     <a href="/fa25-portfolio-constanceargenson/projects/heat-exchanger/">View Project</a>
   </div>
 
+  <div class="project-card">
+    <img src="/fa25-portfolio-constanceargenson/assets/images/FluidDissection.jpeg" alt="Fluid-mechanical dissection project image">
+    <h2>Fluid-Mechanical Dissection</h2>
+    <p>A hands-on dissection of a fluid-mechanical device to analyze how its components move, control, and transfer fluid.</p>
+    <a href="/fa25-portfolio-constanceargenson/projects/fluid-mechanical-dissection/">View Project</a>
+  </div>
+
 </div>
 
 <style>
