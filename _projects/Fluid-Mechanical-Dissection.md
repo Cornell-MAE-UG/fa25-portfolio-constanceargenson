@@ -1,8 +1,8 @@
 ---
-   layout: project
-   title: Fluid-Mechanical Dissection
-   description: ...
-   image: /assets/images/...
-   ---
+layout: project
+title: Fluid-Mechanical Dissection
+description: We are taking apart a keurig coffee machine.
+image: /assets/images/...
+---
 
-We are taking apart a keurig coffee machine.
+
